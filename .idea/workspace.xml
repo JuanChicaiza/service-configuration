@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e3877d56-1313-4ab3-9bba-6c4c81d697a1" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/login-microservice-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,8 @@
       <workItem from="1648946616620" duration="5908000" />
       <workItem from="1649093208899" duration="1030000" />
       <workItem from="1649459518216" duration="749000" />
-      <workItem from="1649460749748" duration="22000" />
+      <workItem from="1649460749748" duration="124000" />
+      <workItem from="1649525052660" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1648948220362</created>
